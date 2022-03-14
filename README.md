@@ -3,6 +3,8 @@
 
 **1st** **Data Lake with AWS S3:** Creation of a bucket in **S3** for raw data and data treated from a **Data Lake;**
 
+***Here you can choose AWS EMR or AWS Glue***
+
 **2nd Big Data Processing with AWS EMR:** Data processing with **Spark in EMR** using **EC2** instances to create automatic jobs (Here we configure the machines that will be used);
 
 **3rd** **Big Data Processing with AWS Glue:** Creation of Jobs for automatic data processing in **Glue** (We do not see the machines configuration here);
