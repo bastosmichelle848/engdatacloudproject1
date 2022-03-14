@@ -1,0 +1,8 @@
+*.csv
+.DS_Store
+.terraform.lock.hcl
+.terraform-provider-aws_v4.4.0_x5.exe
+.tfstate
+.terraform
+.infrastructure\.terraform\providers\registry.terraform.io\hashicorp\aws\4.4.0\windows_amd64\terraform-provider-aws_v4.4.0_x5.exe
+.terraform\providers\registry.terraform.io\hashicorp\aws\4.4.0\windows_amd64
