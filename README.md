@@ -5,7 +5,7 @@
 
 **2nd Big Data Processing with AWS EMR:** Data processing with **Spark in EMR** using **EC2** instances to create automatic jobs (Here we configure the machines that will be used);
 
-**3rd** **Big Data Processing with AWS Glue:** Creation of Jobs for automatic data processing in **Glue** (We do not configure the machines here);
+**3rd** **Big Data Processing with AWS Glue:** Creation of Jobs for automatic data processing in **Glue** (We do not see the machines configuration here);
 
 **4th Data Availability with AWS Athena:** Data Availability in **Athena** for querying with SQL queries.
 
