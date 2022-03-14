@@ -123,7 +123,7 @@
 
 ![image](https://user-images.githubusercontent.com/59781746/158085157-1513aed0-6296-4c7b-a36e-5ede010e469c.png)
 
-- Select the table and enjoy your queries using SQL and connect it at one BI from the datalake.
+- Select the table and enjoy your queries using SQL and connect it at a BI from the datalake.
 
 ![image](https://user-images.githubusercontent.com/59781746/158085829-ed3fb483-8c10-4b3e-ae05-3e25a95a6a3d.png)
 
