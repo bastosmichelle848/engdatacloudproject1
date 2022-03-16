@@ -132,3 +132,28 @@
 
 
 # Infrastructure As Code (IaC)
+
+### Installations
+
+- Create the files main.tf e variables.tf at VSCode;
+- Download terraform, save it at C: and include the path at environment variables(if needed);
+- Create a folder at your datalake on S3;
+
+### Initialize
+
+- At terminal write aws configure;
+- Include the credentials;
+- Write "terraform" to see if the configuration is "ok";
+- Write "terraform init", to initialize it;
+  
+![image](https://user-images.githubusercontent.com/59781746/158512217-e9c5c0da-7af6-47da-b072-458dcab5409f.png)
+  
+![image](https://user-images.githubusercontent.com/59781746/158512315-0279f5b2-e2d0-4c2c-a21f-badb3a040455.png)
+  
+- Write "terraform fmt" to format it;
+- Write "terraform validate" to validate the configuration;
+- Write "terraform plan" that do a plan of execution of the infrastructure;
+- Write "terraform apply" to implement the infrastructure and type "yes";
+- See at datalake your infrastructure with a spark on it;
+- If you want to change some configuration  only do it and deploy it with the same steps;
+- Write "terraform destroy" to eliminate the resources at AWS.
